@@ -1,0 +1,74 @@
+body {
+	display: flex;
+	justify-content: center; 
+	align-items: center;
+	flex-direction: column; 
+
+	}
+
+img {
+	border: none;
+	display: flex;
+	justify-content: center;
+	max-width: 30rem;
+}
+
+.movielist {
+		display: flex;
+		justify-content: center; 
+	    align-items: center;
+	    flex-direction: column; 
+        background: lightblue;
+        border-radius: 2em;
+        border-top: thin;
+        padding: 3em;
+        max-width: 500px;
+       font-family: 'Oswald', sans-serif;
+       color: purple;
+}
+.email {
+		justify-content: center; 
+	    align-items: center;
+	    flex-direction: column; 
+		font-family: 'Gloock', serif;
+		color: black ;
+		font-size: xx-large;
+		background: pink;
+		border-radius: 1em;
+		border-top: thin;
+		padding: 2em;
+		max-width: 500px;
+
+}
+.joke {
+		justify-content: center; 
+	    align-items: center;
+	    flex-direction: column; 
+	    font-family: 'Tilt Prism', cursive;
+	    color: navy;
+	    font-size: large;
+	    background-color: transparent;
+	    
+}
+.links {
+		display: flex;
+		justify-content: center; 
+	    align-items: center;
+	    flex-direction: column; 
+	    font-family: 'Oswald', sans-serif;
+	    color: black;
+	    font-size: small;
+	    background-color: transparent;
+	    
+}
+
+.links2 {
+		align-items: right;
+    	background-color: transparent;
+    	font-family: 'Oswald', sans-serif;
+    	color: black;
+    	background-color: transparent;
+
+}
+
+
